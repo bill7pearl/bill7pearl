@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- 📫 Reach me at: **billal7chami@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://github.com/bill7pearl" target="_blank">
