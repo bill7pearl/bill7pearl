@@ -1,7 +1,7 @@
 <img width="100%" height="250px" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="console.log('Hello World')">
 <h1 align="center">Hi 👋, I'm Billal</h1>
-<h3 align="center">A professional full-stack web application developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35267447/206914767-66766216-5c8a-4626-a9c3-b4663972e238.gif">
+<h3 align="center">A professional full-stack web application developer who loves to solve real-world problems</h3>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="290" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bill7pearl&label=Profile%20views&color=0e75b6&style=flat" alt="bill7pearl" /> </p>
 
