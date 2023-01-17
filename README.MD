@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bill7pearl&label=Profile%20views&color=0e75b6&style=flat" alt="bill7pearl" /> </p>
 
-- 🌱 I’m currently learning **Microverse full-stack software engineer, Javascript, React & React Native, Ruby $ RubyOnRails, PHP, SQL**
+- 🌱 I’m currently learning **Microverse full-stack software engineer, Javascript, React & React Native, Ruby & RubyOnRails, PHP, SQL**
 
 - 💬 Ask me about **Html, CSS, JavaScript, Wordpress**
 
